@@ -1,2 +1,2 @@
 # Exercicio1_CursoEmVideo_PY
-Um código que cumprimenta o usuário, recebendo seu nome e usando uma f-string para cumprimentá-lo.
+Esse repositório foi criado para salvar os exercícios do curso do Professor Gustavo Guanabra (Curso em Video), da linguagem de programação Python.
