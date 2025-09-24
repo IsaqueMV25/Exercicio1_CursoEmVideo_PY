@@ -1,5 +1,5 @@
-print('Seja, Bem-Vindo!\n' \
-'Por favor, digite a data de nascimento:')
+print('Seja Bem-Vindo!\n' \
+'Por favor, digite os dados de nascimento solicitados abaixo.')
 
 dia = input('Dia: ')
 mes = input('Mês: ')
